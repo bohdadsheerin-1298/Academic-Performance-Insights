@@ -1,4 +1,4 @@
-# Academic-Performance-Insights
+📊 Academic-Performance-Insights
 
 This project focuses on analyzing student academic performance across 5 major subjects using Python, SQL, and Power BI.
 The goal is to derive insights such as:
@@ -127,3 +127,11 @@ This project demonstrates a complete data analytics lifecycle:
 ✔ SQL Storage & Querying
 ✔ Visualization with Power BI
 ✔ Insights & Reporting
+
+👤 Author
+
+Bohdad Sheerin Aspiring Data Analyst | Python | SQL | Power BI
+
+⭐ Acknowledgement
+
+Dataset provided by Kaggle. This project is created for educational and portfolio purposes.
