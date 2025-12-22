@@ -119,6 +119,12 @@ TABLE VIEW
 
 * Subjects needing academic improvement
 
+
+## 📊 Dashboard Preview
+
+### Overview Dashboard
+![Overview](Academic Performance_Dashboard_Overview.png)
+
  🚀 Conclusion
 
 This project demonstrates a complete data analytics lifecycle:
