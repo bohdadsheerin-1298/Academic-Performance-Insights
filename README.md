@@ -123,7 +123,7 @@ TABLE VIEW
 ## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Overview](Academic_Performance_Dashboard_Overview.png)
+![Overview](Academic Performance_Dashboard_Overview.png)
 
  🚀 Conclusion
 
